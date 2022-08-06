@@ -1,0 +1,10 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"REF**";"Version1.1.1.";1;"Version1.1.1.";;;
+2;"K59,K28,K30,K39,K63,K46,K35,K14,K9,K47,K56,K32,K54,K26,K18,K44,K15,K2,K16,K13,K37,K3,K73,K80,K23,K68,K5,K27,K64,K25,K36,K21,K1,K79,K6,K51,K41,K45,K40,K11,K31,K43,K72,K33,K55,K53,K57,K10,K8,K7,K24,K19,K49,K70,K78,K71,K29,K61,K74,K75,K62,K60,K42,K58,K76,K17,K66,K34,K65,K4,K69,K22,K67,K12,K50,K38,K20,K48,K77,K52";"HEADER_MALE_5X1";80;"HEADER_MALE_5X1";;;
+3;",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,";"buzzardLabel";178;"";;;
+4;"G***";"Logo-Back-OSH-3.5mm";1;"LOGO";;;
+5;"H1,H3,H2";"HOLE_3.2mm";3;"HOLE_3.2mm";;;
+6;"REF**";"Logo-Back-SolderedFULL-15mm";1;"Logo-Front-SolderedFULL-15mm";;;
+7;"REF**";"Logo-Front-SolderedFULL-15mm";1;"Logo-Front-SolderedFULL-15mm";;;
+8;"G***";"Logo-Front-OSH-3.5mm";1;"LOGO";;;
+9;"G***,G***";"Symbol-Front-Soldering";2;"LOGO";;;
